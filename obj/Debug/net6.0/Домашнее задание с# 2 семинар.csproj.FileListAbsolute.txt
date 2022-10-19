@@ -1,0 +1,15 @@
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\bin\Debug\net6.0\Домашнее задание с# 2 семинар.exe
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\bin\Debug\net6.0\Домашнее задание с# 2 семинар.deps.json
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\bin\Debug\net6.0\Домашнее задание с# 2 семинар.runtimeconfig.json
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\bin\Debug\net6.0\Домашнее задание с# 2 семинар.dll
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\bin\Debug\net6.0\Домашнее задание с# 2 семинар.pdb
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.csproj.AssemblyReference.cache
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.AssemblyInfoInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.AssemblyInfo.cs
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.csproj.CoreCompileInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.dll
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\refint\Домашнее задание с# 2 семинар.dll
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.pdb
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\Домашнее задание с# 2 семинар.genruntimeconfig.cache
+D:\Users\Ma3rs\Desktop\test folder\Домашнее задание с# 2 семинар\obj\Debug\net6.0\ref\Домашнее задание с# 2 семинар.dll

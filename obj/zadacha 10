@@ -5,11 +5,21 @@
 // 918->1
 
 Console.Clear();
-Console.WriteLine("Введите трехзначное число: ");
-int num = new Random().Next(100, 1000);
+Console.WriteLine("Показать вторую цифру трехзначного числа.");
+Console.WriteLine("Введите трехзначное число:");
+int x = int.Parse(Console.ReadLine()!);
+int result;
+int x1 = x / 10;
+if (x1 >= 10 && x1 < 100)
+{
+    result =  x % 100 / 10;
+    Console.WriteLine ($"Вторая цифра веденного числа {x} -> {result} ");
+}
+else
+{
+    Console.WriteLine ("Число не трехзначное. ");
+}
 
-int a1 = num / 100;
 
-int a2 = num % 10;
 
-Console.WriteLine ($"Первая и вторая цифры числа {num} -> {a1}{a2}");
+

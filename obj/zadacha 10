@@ -5,21 +5,25 @@
 // 918->1
 
 Console.Clear();
-Console.WriteLine("Показать вторую цифру трехзначного числа.");
 Console.WriteLine("Введите трехзначное число:");
+Console.WriteLine("Показать вторую цифру трехзначного числа.");
 int x = int.Parse(Console.ReadLine()!);
-int result;
 int x1 = x / 10;
-if (x1 >= 10 && x1 < 100)
+int num = x;
+if (x1 >= 10 || x1 <= -10)
 {
-    result =  x % 100 / 10;
-    Console.WriteLine ($"Вторая цифра веденного числа {x} -> {result} ");
-}
-else
-{
-    Console.WriteLine ("Число не трехзначное. ");
+    while (x > 10 || x < -100)
+    {
+        x = x /10;
+    }
+    if (x < 0)
+    {
+        x = -x;
+        Console.WriteLine($"Вторая цифра числа {num} -> {(x % 10)} ");
+    }
 }
 
+ Console.WriteLine ($"Вторая цифра веденного числа {num} -> {(x1 % 10)} ");
 
 
 
